@@ -50,9 +50,12 @@ This project combines background removal, image inpainting, and scene generation
 6. **Visualization**: Matplotlib is used to display the original image, background-removed image, mask, and the final generated image.
    
 SCREENSHOTS
-![1](https://github.com/user-attachments/assets/80943ca2-8e68-4eaf-bfa5-d51dd38bcb45)
+
+[1](https://github.com/user-attachments/assets/80943ca2-8e68-4eaf-bfa5-d51dd38bcb45)
+
 [2](https://github.com/user-attachments/assets/2451921a-7737-4903-8081-b92f8c874f91)
-!![3](https://github.com/user-attachments/assets/051b5df6-7210-436c-b1e2-36c526b9834f)
+
+[3](https://github.com/user-attachments/assets/051b5df6-7210-436c-b1e2-36c526b9834f)
 
 
 
